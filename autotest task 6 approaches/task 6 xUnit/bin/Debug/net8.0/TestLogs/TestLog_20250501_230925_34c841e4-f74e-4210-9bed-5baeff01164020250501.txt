@@ -1,0 +1,22 @@
+2025-05-01 23:09:25.688 +03:00 [INF] Logging initialized for xUnit tests
+2025-05-01 23:09:25.706 +03:00 [INF] starting LanguageChangeTest
+2025-05-01 23:09:29.976 +03:00 [DBG] changing language
+2025-05-01 23:09:30.318 +03:00 [DBG] starting SearchTest
+2025-05-01 23:09:30.323 +03:00 [INF] entering 'study programs'
+2025-05-01 23:09:32.112 +03:00 [INF] asserting url is lithuanian page
+2025-05-01 23:09:32.161 +03:00 [INF] LanguageChangeTest PASSED
+2025-05-01 23:09:32.966 +03:00 [INF] starting SearchTest
+2025-05-01 23:09:36.975 +03:00 [DBG] Performing search for: study programs
+2025-05-01 23:09:38.735 +03:00 [INF] Asserting URL is search results
+2025-05-01 23:09:38.738 +03:00 [INF] SearchTest PASSED
+2025-05-01 23:09:38.859 +03:00 [INF] starting ContactInfoTest
+2025-05-01 23:09:42.812 +03:00 [DBG] Navigating to Contact page and grabbing elements
+2025-05-01 23:09:43.625 +03:00 [INF] asserting email is displayed
+2025-05-01 23:09:43.632 +03:00 [INF] asserting phoneLT is displayed
+2025-05-01 23:09:43.637 +03:00 [INF] asserting phoneBY is displayed
+2025-05-01 23:09:43.641 +03:00 [INF] asserting SocialNetworks is displayed
+2025-05-01 23:09:43.644 +03:00 [INF] ContactInfoTest PASSED
+2025-05-01 23:09:43.755 +03:00 [INF] starting AboutTest
+2025-05-01 23:09:47.141 +03:00 [DBG] Clicking About link
+2025-05-01 23:09:47.753 +03:00 [INF] Asserting URL is About page
+2025-05-01 23:09:47.756 +03:00 [INF] AboutTest PASSED

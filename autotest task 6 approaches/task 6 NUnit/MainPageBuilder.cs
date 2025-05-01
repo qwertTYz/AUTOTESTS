@@ -6,9 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Serilog;
 using Shouldly;
-using Task_6_NUnit;
+using task_6_NUnit;
 
-namespace Task_6_NUnit
+namespace task_6_NUnit
 {
     public class MainPageBuilder
     {

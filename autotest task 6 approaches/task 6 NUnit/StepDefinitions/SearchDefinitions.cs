@@ -7,7 +7,7 @@ using OpenQA.Selenium;
 using Reqnroll;
 
 using Shouldly;
-using Task_6_NUnit;
+using task_6_NUnit;
 using Serilog;
 
 namespace task_6_NUnit.StepDefinitions

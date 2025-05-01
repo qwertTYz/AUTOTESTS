@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Serilog;
-using Task_6_NUnit;
+using task_6_NUnit;
 
 namespace task_6_NUnit.StepDefinitions
 {

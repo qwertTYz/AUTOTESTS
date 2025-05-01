@@ -1,0 +1,5 @@
+2025-05-01 22:13:53.638 +03:00 [INF] Logging initialized for xUnit tests
+2025-05-01 22:13:53.659 +03:00 [INF] starting AboutTest
+2025-05-01 22:13:55.979 +03:00 [INF] starting LanguageChangeTest
+2025-05-01 22:13:55.982 +03:00 [INF] starting SearchTest
+2025-05-01 22:13:55.987 +03:00 [INF] starting ContactInfoTest

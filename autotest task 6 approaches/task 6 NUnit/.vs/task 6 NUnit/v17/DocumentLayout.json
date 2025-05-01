@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\features\\nunitfeatures.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:features\\nunitfeatures.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\features\\nunitfeatures.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:features\\nunitfeatures.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\task 6 nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:task 6 nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\stepdefinitions\\aboutdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:stepdefinitions\\aboutdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\task 6 nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:task 6 nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\features\\nunitfeatures.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|solutionrelative:features\\nunitfeatures.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F931906A-03D1-4D66-996F-FFF58DB71498}|task 6 NUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 nunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,54 +68,11 @@
         },
         {
           "DockedHeight": 638,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NUnitFeatures.feature",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\Features\\NUnitFeatures.feature",
-              "RelativeDocumentMoniker": "Features\\NUnitFeatures.feature",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\Features\\NUnitFeatures.feature",
-              "RelativeToolTip": "Features\\NUnitFeatures.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-01T18:42:30.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LanguageSwitcherDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:25:59.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SearchDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\SearchDefinitions.cs",
-              "RelativeDocumentMoniker": "StepDefinitions\\SearchDefinitions.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\SearchDefinitions.cs",
-              "RelativeToolTip": "StepDefinitions\\SearchDefinitions.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:26:51.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "NUnitFeatures.feature.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\Features\\NUnitFeatures.feature.cs",
               "RelativeDocumentMoniker": "Features\\NUnitFeatures.feature.cs",
@@ -128,16 +85,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ContactInfoDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\ContactInfoDefinitions.cs",
               "RelativeDocumentMoniker": "StepDefinitions\\ContactInfoDefinitions.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\ContactInfoDefinitions.cs",
               "RelativeToolTip": "StepDefinitions\\ContactInfoDefinitions.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T18:27:26.468Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task 6 NUnit.csproj",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\task 6 NUnit.csproj",
+              "RelativeDocumentMoniker": "task 6 NUnit.csproj",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\task 6 NUnit.csproj",
+              "RelativeToolTip": "task 6 NUnit.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T18:25:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\SearchDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SearchDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\SearchDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\SearchDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:26:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageSwitcherDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:25:59.316Z"
             },
             {
               "$type": "Document",
@@ -147,22 +145,21 @@
               "RelativeDocumentMoniker": "StepDefinitions\\AboutDefinitions.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\StepDefinitions\\AboutDefinitions.cs",
               "RelativeToolTip": "StepDefinitions\\AboutDefinitions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:27:10.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:27:10.101Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "task 6 NUnit.csproj",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\task 6 NUnit.csproj",
-              "RelativeDocumentMoniker": "task 6 NUnit.csproj",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\task 6 NUnit.csproj",
-              "RelativeToolTip": "task 6 NUnit.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T18:25:14.743Z"
+              "Title": "NUnitFeatures.feature",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\Features\\NUnitFeatures.feature",
+              "RelativeDocumentMoniker": "Features\\NUnitFeatures.feature",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\Features\\NUnitFeatures.feature",
+              "RelativeToolTip": "Features\\NUnitFeatures.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T18:42:30.53Z"
             },
             {
               "$type": "Document",

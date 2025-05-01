@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using Serilog;
 using Shouldly;
 
-namespace Task_6_NUnit
+namespace task_6_NUnit
 {
     public class MainPage
     {

@@ -8,9 +8,9 @@ using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using Serilog;
 using Shouldly;
-using Task_6_NUnit;
+using task_6_NUnit;
 
-namespace Task_6_NUnit
+namespace task_6_NUnit
 {
     [TestFixture]
     [Parallelizable]

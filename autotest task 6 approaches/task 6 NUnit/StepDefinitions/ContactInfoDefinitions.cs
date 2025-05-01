@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using OpenQA.Selenium;
 using Reqnroll;
 using Serilog;
-using Task_6_NUnit;
+using task_6_NUnit;
 using Shouldly;
 
 namespace task_6_NUnit.StepDefinitions
