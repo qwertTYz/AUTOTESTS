@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\task 6 xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:task 6 xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:stepdefinitions\\searchdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:stepdefinitions\\languageswitcherdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:stepdefinitions\\contactinfodefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\stepdefinitions\\aboutdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:stepdefinitions\\aboutdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\mainpagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +29,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:loggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\task 6 xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:task 6 xunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:webdriversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|solutionrelative:maintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6AED05-2551-4FD9-97A3-3561F5B16D3A}|task 6 xUnit.csproj|c:\\users\\danii\\desktop\\autotests\\autotest task 6 approaches\\task 6 xunit\\features\\xunitfeatures.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -57,45 +73,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "task 6 xUnit.csproj",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\task 6 xUnit.csproj",
-              "RelativeDocumentMoniker": "task 6 xUnit.csproj",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\task 6 xUnit.csproj",
-              "RelativeToolTip": "task 6 xUnit.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-01T18:54:56.599Z",
+              "Title": "SearchDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\SearchDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\SearchDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\SearchDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\SearchDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:12:29.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebDriverSingleton.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\WebDriverSingleton.cs",
-              "RelativeDocumentMoniker": "WebDriverSingleton.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\WebDriverSingleton.cs",
-              "RelativeToolTip": "WebDriverSingleton.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Title": "LanguageSwitcherDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\LanguageSwitcherDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:50:18.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainTests.cs",
-              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainTests.cs",
-              "RelativeDocumentMoniker": "MainTests.cs",
-              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainTests.cs",
-              "RelativeToolTip": "MainTests.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:50:03.926Z",
+              "WhenOpened": "2025-05-01T20:12:28.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AboutDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\AboutDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\AboutDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\AboutDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\AboutDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:12:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactInfoDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\ContactInfoDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\ContactInfoDefinitions.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\StepDefinitions\\ContactInfoDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\ContactInfoDefinitions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:12:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainPageBuilder.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainPageBuilder.cs",
               "RelativeDocumentMoniker": "MainPageBuilder.cs",
@@ -103,25 +132,23 @@
               "RelativeToolTip": "MainPageBuilder.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:49:43.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:49:43.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
               "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainPage.cs",
               "RelativeToolTip": "MainPage.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA+wFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:49:29.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:49:29.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoggerConfig.cs",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\LoggerConfig.cs",
               "RelativeDocumentMoniker": "LoggerConfig.cs",
@@ -129,12 +156,47 @@
               "RelativeToolTip": "LoggerConfig.cs",
               "ViewState": "AgIAABYAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T18:49:04.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T18:49:04.537Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "task 6 xUnit.csproj",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\task 6 xUnit.csproj",
+              "RelativeDocumentMoniker": "task 6 xUnit.csproj",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\task 6 xUnit.csproj",
+              "RelativeToolTip": "task 6 xUnit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T18:54:56.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebDriverSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\WebDriverSingleton.cs",
+              "RelativeDocumentMoniker": "WebDriverSingleton.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\WebDriverSingleton.cs",
+              "RelativeToolTip": "WebDriverSingleton.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:50:18.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainTests.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainTests.cs",
+              "RelativeDocumentMoniker": "MainTests.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\MainTests.cs",
+              "RelativeToolTip": "MainTests.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:50:03.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "XUnitFeatures.feature",
               "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 xUnit\\Features\\XUnitFeatures.feature",
               "RelativeDocumentMoniker": "Features\\XUnitFeatures.feature",
@@ -142,8 +204,7 @@
               "RelativeToolTip": "Features\\XUnitFeatures.feature",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-01T19:27:57.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T19:27:57.184Z"
             }
           ]
         },

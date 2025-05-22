@@ -1,0 +1,7 @@
+[22:02:01 INF] === Starting Test: LanguageSwitcherTest at 05/22/2025 22:02:01 | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+[22:02:01 WRN] warning. driver can be null
+[22:02:05 WRN] maximizing window
+[22:02:05 DBG] starting LanguageSwitcherTest
+[22:02:08 INF] asserting current url
+[22:02:08 INF] === Finished Test: LanguageSwitcherTest | Result: Passed ===
+[22:02:08 WRN] warning. driver can be null

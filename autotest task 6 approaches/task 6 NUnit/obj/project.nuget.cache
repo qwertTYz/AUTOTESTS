@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OzQmBAFTxso=",
+  "dgSpecHash": "Y0dDISjV/1M=",
   "success": true,
   "projectFilePath": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\task 6 NUnit.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\allure.net.commons\\2.12.1\\allure.net.commons.2.12.1.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\allure.nunit\\2.12.1\\allure.nunit.2.12.1.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\aspectinjector\\2.8.1\\aspectinjector.2.8.1.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\cucumber.cucumberexpressions\\17.1.0\\cucumber.cucumberexpressions.17.1.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\diffengine\\11.3.0\\diffengine.11.3.0.nupkg.sha512",
@@ -16,8 +19,9 @@
     "C:\\Users\\danii\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
@@ -32,6 +36,7 @@
     "C:\\Users\\danii\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\shouldly\\4.3.0\\shouldly.4.3.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\system.management\\6.0.1\\system.management.6.0.1.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\danii\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"

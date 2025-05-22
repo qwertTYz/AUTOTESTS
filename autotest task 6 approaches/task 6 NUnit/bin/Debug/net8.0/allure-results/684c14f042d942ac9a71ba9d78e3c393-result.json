@@ -1,0 +1,55 @@
+{
+  "uuid": "7c63aa10-a882-400f-a422-5f01d20a233d",
+  "historyId": "927a3c3363778d55aa6550cebc9e1ff9",
+  "testCaseId": "f93130410cc2b327b226f7bd2161829e",
+  "fullName": "task 6 NUnit:task_6_NUnit.MainTests.AboutTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#9"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A8L6LMJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "task_6_NUnit"
+    },
+    {
+      "name": "testMethod",
+      "value": "AboutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "MainTests"
+    },
+    {
+      "name": "tag",
+      "value": "About"
+    }
+  ],
+  "links": [],
+  "name": "AboutTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "d71c97b3-4ee4-4a1b-8e65-9c5bcc1cccff-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747936361433,
+  "stop": 1747936362827
+}

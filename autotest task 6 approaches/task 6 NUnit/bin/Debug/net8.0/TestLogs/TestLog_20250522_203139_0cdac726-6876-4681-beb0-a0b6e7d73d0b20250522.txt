@@ -1,0 +1,32 @@
+2025-05-22 20:31:39.345 +03:00 [INF] Logging initialized for NUnit tests
+2025-05-22 20:31:39.367 +03:00 [INF] === Starting Test: AboutTest at "2025-05-22T20:31:39.3672006+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-22 20:31:39.371 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:41.611 +03:00 [WRN] maximizing window
+2025-05-22 20:31:41.613 +03:00 [DBG] starting AboutTest
+2025-05-22 20:31:41.980 +03:00 [INF] asserting current url
+2025-05-22 20:31:41.984 +03:00 [INF] === Finished Test: AboutTest | Result: "Passed" ===
+2025-05-22 20:31:41.984 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:42.132 +03:00 [INF] === Starting Test: ContactInfoTest at "2025-05-22T20:31:42.1321543+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-22 20:31:42.132 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:45.782 +03:00 [WRN] maximizing window
+2025-05-22 20:31:45.877 +03:00 [DBG] starting ContactInfoTest
+2025-05-22 20:31:46.748 +03:00 [INF] asserting email is displayed
+2025-05-22 20:31:46.754 +03:00 [INF] asserting phoneLT is displayed
+2025-05-22 20:31:46.759 +03:00 [INF] asserting phoneBY is displayed
+2025-05-22 20:31:46.763 +03:00 [INF] asserting SocialNetworks is displayed
+2025-05-22 20:31:46.767 +03:00 [INF] === Finished Test: ContactInfoTest | Result: "Passed" ===
+2025-05-22 20:31:46.767 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:46.879 +03:00 [INF] === Starting Test: LanguageSwitcherTest at "2025-05-22T20:31:46.8798370+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-22 20:31:46.879 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:50.255 +03:00 [WRN] maximizing window
+2025-05-22 20:31:50.345 +03:00 [DBG] starting LanguageSwitcherTest
+2025-05-22 20:31:53.640 +03:00 [INF] asserting current url
+2025-05-22 20:31:53.647 +03:00 [INF] === Finished Test: LanguageSwitcherTest | Result: "Passed" ===
+2025-05-22 20:31:53.647 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:53.772 +03:00 [INF] === Starting Test: SearchTest at "2025-05-22T20:31:53.7724391+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-22 20:31:53.772 +03:00 [WRN] warning. driver can be null
+2025-05-22 20:31:58.196 +03:00 [WRN] maximizing window
+2025-05-22 20:31:58.265 +03:00 [DBG] starting SearchTest
+2025-05-22 20:31:58.265 +03:00 [INF] entering 'study programs'
+2025-05-22 20:32:01.243 +03:00 [INF] === Finished Test: SearchTest | Result: "Passed" ===
+2025-05-22 20:32:01.243 +03:00 [WRN] warning. driver can be null

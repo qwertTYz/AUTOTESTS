@@ -1,0 +1,62 @@
+{
+  "uuid": "b1a2a532-3fbb-4908-8ff3-70367a155b40",
+  "historyId": "927a3c3363778d55aa6550cebc9e1ff9",
+  "testCaseId": "f93130410cc2b327b226f7bd2161829e",
+  "fullName": "task 6 NUnit:task_6_NUnit.MainTests.AboutTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#9"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A8L6LMJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "task_6_NUnit"
+    },
+    {
+      "name": "testMethod",
+      "value": "AboutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "MainTests"
+    },
+    {
+      "name": "tag",
+      "value": "About"
+    }
+  ],
+  "links": [],
+  "name": "AboutTest",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Shouldly.ShouldAssertException : _driver.Url\r\n    should be\r\n\"https://en.ehu.lt/\"\r\n    but was\r\n\"https://en.ehu.lt/about/\"\r\n    difference\r\nDifference     |                                                                                  |    |    |    |    |    |   \r\n               |                                                                                 \\|/  \\|/  \\|/  \\|/  \\|/  \\|/  \r\nIndex          | ...  3    4    5    6    7    8    9    10   11   12   13   14   15   16   17   18   19   20   21   22   23   \r\nExpected Value | ...  p    s    :    /    /    e    n    .    e    h    u    .    l    t    /                                  \r\nActual Value   | ...  p    s    :    /    /    e    n    .    e    h    u    .    l    t    /    a    b    o    u    t    /    \r\nExpected Code  | ...  112  115  58   47   47   101  110  46   101  104  117  46   108  116  47                                 \r\nActual Code    | ...  112  115  58   47   47   101  110  46   101  104  117  46   108  116  47   97   98   111  117  116  47   ",
+    "trace": "   at task_6_NUnit.MainTests.AboutTest() in C:\\Users\\danii\\Desktop\\AUTOTESTS\\autotest task 6 approaches\\task 6 NUnit\\MainTests.cs:line 81\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "d6a6cb70-ee71-4b91-acab-88fe3a79983f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747940515436,
+  "stop": 1747940516993
+}

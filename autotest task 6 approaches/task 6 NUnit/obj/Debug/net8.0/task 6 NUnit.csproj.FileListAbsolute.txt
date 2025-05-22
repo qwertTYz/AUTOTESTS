@@ -160,3 +160,7 @@ C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\obj\Deb
 C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\obj\Debug\net8.0\task 6 NUnit.genruntimeconfig.cache
 C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\obj\Debug\net8.0\ref\task 6 NUnit.dll
 C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\bin\Debug\net8.0\Reqnroll.NUnit.ReqnrollPlugin.dll
+C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\bin\Debug\net8.0\Allure.Net.Commons.dll
+C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\bin\Debug\net8.0\Allure.NUnit.dll
+C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\bin\Debug\net8.0\AspectInjector.Broker.dll
+C:\Users\danii\Desktop\AUTOTESTS\autotest task 6 approaches\task 6 NUnit\bin\Debug\net8.0\MimeTypesMap.dll

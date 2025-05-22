@@ -1,0 +1,7 @@
+[20:52:56 INF] === Starting Test: SearchTest at 05/22/2025 20:52:56 | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+[20:52:56 WRN] warning. driver can be null
+[20:53:00 WRN] maximizing window
+[20:53:00 DBG] starting SearchTest
+[20:53:00 INF] entering 'study programs'
+[20:53:02 INF] === Finished Test: SearchTest | Result: Passed ===
+[20:53:02 WRN] warning. driver can be null

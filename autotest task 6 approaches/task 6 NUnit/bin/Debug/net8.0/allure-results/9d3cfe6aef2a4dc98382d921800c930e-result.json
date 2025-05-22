@@ -1,0 +1,51 @@
+{
+  "uuid": "ad1afbd4-2dbb-4ae5-8d90-0976c3f1c2e7",
+  "historyId": "74268ba7f500e33b9414abc4f100b7cf",
+  "testCaseId": "d01eca549c307b3f375393c2b9fd5835",
+  "fullName": "task 6 NUnit:task_6_NUnit.MainTests.LanguageSwitcherTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#9"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A8L6LMJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "task_6_NUnit"
+    },
+    {
+      "name": "testMethod",
+      "value": "LanguageSwitcherTest"
+    },
+    {
+      "name": "testClass",
+      "value": "MainTests"
+    }
+  ],
+  "links": [],
+  "name": "LanguageSwitcherTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "c9a710d0-55fc-451e-aa57-5c0618787c32-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747940521915,
+  "stop": 1747940528334
+}

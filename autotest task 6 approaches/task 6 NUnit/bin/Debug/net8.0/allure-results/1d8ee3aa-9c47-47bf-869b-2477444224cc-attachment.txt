@@ -1,0 +1,10 @@
+[20:52:42 INF] === Starting Test: ContactInfoTest at 05/22/2025 20:52:42 | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+[20:52:42 WRN] warning. driver can be null
+[20:52:48 WRN] maximizing window
+[20:52:48 DBG] starting ContactInfoTest
+[20:52:48 INF] asserting email is displayed
+[20:52:48 INF] asserting phoneLT is displayed
+[20:52:48 INF] asserting phoneBY is displayed
+[20:52:48 INF] asserting SocialNetworks is displayed
+[20:52:48 INF] === Finished Test: ContactInfoTest | Result: Passed ===
+[20:52:48 WRN] warning. driver can be null

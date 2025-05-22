@@ -1,0 +1,7 @@
+[22:01:55 INF] === Starting Test: AboutTest at 05/22/2025 22:01:55 | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+[22:01:55 WRN] warning. driver can be null
+[22:01:56 WRN] maximizing window
+[22:01:56 DBG] starting AboutTest
+[22:01:56 INF] asserting current url
+[22:01:56 INF] === Finished Test: AboutTest | Result: Failed ===
+[22:01:56 WRN] warning. driver can be null

@@ -1,0 +1,51 @@
+{
+  "uuid": "33c3c298-749b-40ea-bc5e-4eb90edf2d08",
+  "historyId": "70f530f65b0a38bb17cf1548bcbbb9f2",
+  "testCaseId": "67191767055b1e72514b995744737644",
+  "fullName": "task 6 NUnit:task_6_NUnit.MainTests.ContactInfoTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#9"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-A8L6LMJ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "task_6_NUnit"
+    },
+    {
+      "name": "testMethod",
+      "value": "ContactInfoTest"
+    },
+    {
+      "name": "testClass",
+      "value": "MainTests"
+    }
+  ],
+  "links": [],
+  "name": "ContactInfoTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1d8ee3aa-9c47-47bf-869b-2477444224cc-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1747936362843,
+  "stop": 1747936369069
+}

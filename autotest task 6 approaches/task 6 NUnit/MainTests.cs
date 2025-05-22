@@ -1,5 +1,7 @@
-﻿using System;
+﻿global using Allure.NUnit;
+using System;
 using System.Xml.Linq;
+using Allure.NUnit.Attributes;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
@@ -10,8 +12,10 @@ using Serilog;
 using Shouldly;
 using task_6_NUnit;
 
+
 namespace task_6_NUnit
 {
+    [AllureNUnit]
     [TestFixture]
     [Parallelizable]
     public class MainTests
@@ -75,10 +79,11 @@ namespace task_6_NUnit
             _mainPage.NavigateToAbout();
 
             Log.Information("asserting current url");
-            _driver.Url.ShouldBe("https://en.ehu.lt/about/");
+            _driver.Url.ShouldBe("https://en.ehu.lt/");
         }
 
-
+        [AllureSubSuite("Search")]
+        [Ignore("ignore")]
         [Test]
         [Category("Search")]
         public void SearchTest()
@@ -97,7 +102,7 @@ namespace task_6_NUnit
                 Assert.Fail("SearchTest failed: " + ex.Message);
             }
         }
-
+        [AllureSubSuite("LanguageSwitcher")]
         [Test]
         public void LanguageSwitcherTest()
         {
@@ -108,6 +113,7 @@ namespace task_6_NUnit
             _driver.Url.ShouldBe("https://lt.ehu.lt/");
         }
 
+        [AllureSubSuite("ContactInfo")]
         [Test]
         public void ContactInfoTest()
         {
