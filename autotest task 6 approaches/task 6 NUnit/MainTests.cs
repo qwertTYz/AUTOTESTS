@@ -20,6 +20,7 @@ namespace task_6_NUnit
     [Parallelizable]
     public class MainTests
     {
+        
         private IWebDriver _driver;
         private MainPage _mainPage;
 

@@ -1,0 +1,12 @@
+{
+  "uuid": "63e8200e-c0bf-49fb-8fb5-600cb6584b03",
+  "name": "task_6_NUnit.MainTests.LanguageSwitcherTest",
+  "children": [
+    "266067d2-c65b-4bb0-b57e-dc0574a751bf"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1748540951027,
+  "stop": 1748540960434
+}

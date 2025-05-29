@@ -1,0 +1,12 @@
+{
+  "uuid": "f4e3c0d6-5735-496e-92fb-1c432b705fc3",
+  "name": "task_6_NUnit.MainTests.ContactInfoTest",
+  "children": [
+    "c2442801-5b8f-414c-8c85-9f6a7532757d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1748540946036,
+  "stop": 1748540951027
+}

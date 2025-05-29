@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|c:\\users\\danii\\desktop\\autotests\\api testing\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|solutionrelative:tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|c:\\users\\danii\\desktop\\autotests\\api testing\\createbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|solutionrelative:createbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|c:\\users\\danii\\desktop\\autotests\\api testing\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|c:\\users\\danii\\desktop\\autotests\\api testing\\api testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2599F18-A841-4008-A0B4-94467F14B3AE}|API Testing.csproj|solutionrelative:api testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1902,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 638,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\Tests.cs",
+              "RelativeToolTip": "Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:46:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\CreateBookModel.cs",
+              "RelativeDocumentMoniker": "CreateBookModel.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\CreateBookModel.cs",
+              "RelativeToolTip": "CreateBookModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:43:23.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API Testing.csproj",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\API Testing.csproj",
+              "RelativeDocumentMoniker": "API Testing.csproj",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\API Testing.csproj",
+              "RelativeToolTip": "API Testing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T20:36:22.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\danii\\Desktop\\AUTOTESTS\\API Testing\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:06:26.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 724,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

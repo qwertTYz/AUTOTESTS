@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("task 6 NUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+614f978b66e2f72e4c82465db28193afeba6aff5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2044cfa5e34c5e556b1ef4231cea481bff7fc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("task 6 NUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("task 6 NUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

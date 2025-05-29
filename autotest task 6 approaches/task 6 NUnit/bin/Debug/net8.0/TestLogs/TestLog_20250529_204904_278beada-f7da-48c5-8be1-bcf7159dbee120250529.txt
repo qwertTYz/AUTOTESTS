@@ -1,0 +1,25 @@
+2025-05-29 20:49:04.497 +03:00 [INF] Logging initialized for NUnit tests
+2025-05-29 20:49:04.522 +03:00 [INF] === Starting Test: AboutTest at "2025-05-29T20:49:04.5225414+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-29 20:49:04.525 +03:00 [WRN] warning. driver can be null
+2025-05-29 20:49:05.231 +03:00 [WRN] maximizing window
+2025-05-29 20:49:05.237 +03:00 [DBG] starting AboutTest
+2025-05-29 20:49:05.639 +03:00 [INF] asserting current url
+2025-05-29 20:49:05.884 +03:00 [INF] === Finished Test: AboutTest | Result: "Failed" ===
+2025-05-29 20:49:05.885 +03:00 [WRN] warning. driver can be null
+2025-05-29 20:49:06.036 +03:00 [INF] === Starting Test: ContactInfoTest at "2025-05-29T20:49:06.0367309+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-29 20:49:06.036 +03:00 [WRN] warning. driver can be null
+2025-05-29 20:49:10.054 +03:00 [WRN] maximizing window
+2025-05-29 20:49:10.130 +03:00 [DBG] starting ContactInfoTest
+2025-05-29 20:49:10.903 +03:00 [INF] asserting email is displayed
+2025-05-29 20:49:10.909 +03:00 [INF] asserting phoneLT is displayed
+2025-05-29 20:49:10.914 +03:00 [INF] asserting phoneBY is displayed
+2025-05-29 20:49:10.917 +03:00 [INF] asserting SocialNetworks is displayed
+2025-05-29 20:49:10.920 +03:00 [INF] === Finished Test: ContactInfoTest | Result: "Passed" ===
+2025-05-29 20:49:10.920 +03:00 [WRN] warning. driver can be null
+2025-05-29 20:49:11.027 +03:00 [INF] === Starting Test: LanguageSwitcherTest at "2025-05-29T20:49:11.0279899+03:00" | OS: Microsoft Windows NT 10.0.19045.0 | Browser: Chrome ===
+2025-05-29 20:49:11.028 +03:00 [WRN] warning. driver can be null
+2025-05-29 20:49:17.866 +03:00 [WRN] maximizing window
+2025-05-29 20:49:17.960 +03:00 [DBG] starting LanguageSwitcherTest
+2025-05-29 20:49:20.240 +03:00 [INF] asserting current url
+2025-05-29 20:49:20.288 +03:00 [INF] === Finished Test: LanguageSwitcherTest | Result: "Passed" ===
+2025-05-29 20:49:20.289 +03:00 [WRN] warning. driver can be null
